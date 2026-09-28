@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+School_data.json
+.vscode/
+.idea/

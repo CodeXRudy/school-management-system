@@ -1,0 +1,6 @@
+# The School Management System uses only the Python standard library (Python 3.8+).
+# No packages need to be installed to run the program or its tests.
+#
+# Optional - only needed to regenerate the design diagrams / screenshots:
+# matplotlib
+# (Graphviz must be installed separately: https://graphviz.org/download/)
